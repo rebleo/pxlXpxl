@@ -1,4 +1,4 @@
-// Daniel Rozin, The world pixel by pixel 2016
+
 // paint with video & adjusting colors of an image
 // https://github.com/dannyrozin
 
